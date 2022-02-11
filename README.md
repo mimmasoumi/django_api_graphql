@@ -1,4 +1,4 @@
-# django_api_graphql
+# django simple blog api with graphql
 ## Used module
 - django
 - graphene
